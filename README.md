@@ -4,7 +4,7 @@ It is rainbow for colors.
 Enjoy!
 
 
-<span style="font-size:larger;">NOTICE!!!!
+<span style="font-size:larger;">`NOTICE!!!!`
 
 HAVING "PING.PY" IN SAME DIECTORY WILL RUN OVER BATCH FILE!</span>
 
