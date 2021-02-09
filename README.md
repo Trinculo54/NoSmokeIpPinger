@@ -9,8 +9,7 @@ Enjoy!
 HAVING "PING.PY" IN SAME DIECTORY WILL RUN OVER BATCH FILE!</span>
 
 `INSTALATION:`
-Download the file and drag it to your desktop
-Open it and there you go.
+Download the <a href="trinculo54.online">file</a> and put it into desired directory, run and enjoy! 
 
 `USAGE:`
 Once you open it enter an ip in the target feild and hit enter. 
